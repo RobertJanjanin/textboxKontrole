@@ -1,0 +1,9 @@
+C:\Users\Korisnik\source\repos\zadatak2TextBoxKontrole\zadatak2TextBoxKontrole\bin\Debug\zadatak2TextBoxKontrole.exe.config
+C:\Users\Korisnik\source\repos\zadatak2TextBoxKontrole\zadatak2TextBoxKontrole\bin\Debug\zadatak2TextBoxKontrole.exe
+C:\Users\Korisnik\source\repos\zadatak2TextBoxKontrole\zadatak2TextBoxKontrole\bin\Debug\zadatak2TextBoxKontrole.pdb
+C:\Users\Korisnik\source\repos\zadatak2TextBoxKontrole\zadatak2TextBoxKontrole\obj\Debug\zadatak2TextBoxKontrole.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\zadatak2TextBoxKontrole\zadatak2TextBoxKontrole\obj\Debug\zadatak2TextBoxKontrole.Form1.resources
+C:\Users\Korisnik\source\repos\zadatak2TextBoxKontrole\zadatak2TextBoxKontrole\obj\Debug\zadatak2TextBoxKontrole.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\zadatak2TextBoxKontrole\zadatak2TextBoxKontrole\obj\Debug\zadatak2TextBoxKontrole.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\zadatak2TextBoxKontrole\zadatak2TextBoxKontrole\obj\Debug\zadatak2TextBoxKontrole.exe
+C:\Users\Korisnik\source\repos\zadatak2TextBoxKontrole\zadatak2TextBoxKontrole\obj\Debug\zadatak2TextBoxKontrole.pdb
